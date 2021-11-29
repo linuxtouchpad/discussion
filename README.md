@@ -1,6 +1,6 @@
 # Linux Touchpad Discussions
 
-Welcome!
+## Welcome!
 
 If you're looking for a developer community forum that touches on all layers of the Linux touchpad stack, you've found it!
 
