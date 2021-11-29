@@ -12,7 +12,7 @@ After discussion with several of the key people in the Linux touchpad software d
 
 ## Website
 
-This discussion forum is part of the linuxtouchpad.org website and related community.
+This discussion forum is part of the [linuxtouchpad.org](https://linuxtouchpad.org) website and related community.
 
 ## Discord Chat
 
